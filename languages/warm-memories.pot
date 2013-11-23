@@ -1,0 +1,44 @@
+# Copyright (C) 2013 Sami Keijonen
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Warm Memories 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/warm-memories\n"
+"POT-Creation-Date: 2013-11-23 16:22:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Translators: Header image description.
+
+#: functions.php:52
+msgid "Warm Memory 1"
+msgstr ""
+
+#. Translators: Header image description.
+
+#: functions.php:58
+msgid "Warm Memory 2"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Warm Memories"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://foxnet-themes.fi/downloads/warm-memories"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A child theme of stargazer parent theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://foxnet-themes.fi"
+msgstr ""
